@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.svn-base
+.svn/entries
+.svn/format
+*.db
+matrix.vcproj.dell-PC.dell.user
+*.user
+matrix.vcproj
+*.obj
+Debug/vc80.idb
+*.htm
+Debug/vc80.pdb

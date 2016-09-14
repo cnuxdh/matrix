@@ -56,3 +56,5 @@ matrix.vcproj
 Debug/vc80.idb
 *.htm
 Debug/vc80.pdb
+*.idb
+Release/vc80.pdb
